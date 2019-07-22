@@ -1,3 +1,9 @@
+# Prototype-Jollybee Learning
+
+It's a prototype of Jollybee Learning website. Jollybee Learning is a website that will helps students to get a knowledge about resource in competitive programming.
+
+It is created to test an understanding in Laravel
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
